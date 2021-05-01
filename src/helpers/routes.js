@@ -1,0 +1,17 @@
+export const LOGIN = "login";
+export const FORGOT_PASSWORD = "reset-password";
+export const NEW_PASSWORD = "new-password";
+export const ORGANIZATIONS = "organizations";
+export const USERS = "users";
+export const ADD = "add";
+export const CHILDREN = "children";
+export const ACTION_ITEMS = "action-items";
+export const SEARCHVECTOR = "search-vectors";
+export const SETTINGS = "settings";
+export const CONTACTS = "contacts";
+export const COMMUNICATION_TEMPLATES = "communications-templates";
+export const REPORTS = "reports";
+export const ATTACHMENTS = "attachments";
+export const RESOURCES = "resources";
+export const CONNECTIONS = "connections";
+export const FAMILY_SEARCH = "family_search";

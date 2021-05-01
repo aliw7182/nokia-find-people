@@ -1,0 +1,81 @@
+{
+  "name": "web-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@atlaskit/badge": "^14.1.0",
+    "@atlaskit/breadcrumbs": "^10.0.9",
+    "@atlaskit/button": "^15.1.2",
+    "@atlaskit/comment": "^10.0.6",
+    "@atlaskit/css-reset": "^6.0.5",
+    "@atlaskit/drawer": "^6.0.7",
+    "@atlaskit/dynamic-table": "^14.1.4",
+    "@atlaskit/form": "^8.1.6",
+    "@atlaskit/icon": "^21.1.4",
+    "@atlaskit/icon-file-type": "^6.0.6",
+    "@atlaskit/lozenge": "^10.0.7",
+    "@atlaskit/menu": "^0.7.4",
+    "@atlaskit/modal-dialog": "^11.2.4",
+    "@atlaskit/popup": "^1.0.6",
+    "@atlaskit/select": "^13.0.6",
+    "@atlaskit/spinner": "^15.0.6",
+    "@atlaskit/tabs": "^12.1.1",
+    "@atlaskit/tag": "^11.0.6",
+    "@atlaskit/tag-group": "^10.0.4",
+    "@atlaskit/textfield": "^4.0.9",
+    "@atlaskit/tooltip": "^17.1.2",
+    "@balkangraph/orgchart.js": "^7.6.14",
+    "@chakra-ui/react": "^1.1.1",
+    "@draft-js-plugins/editor": "^4.0.0",
+    "@draft-js-plugins/emoji": "^4.2.0",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "@react-pdf/renderer": "^1.6.13",
+    "@testing-library/jest-dom": "^5.11.4",
+    "draft-js": "^0.11.7",
+    "draft-js-export-html": "^1.4.1",
+    "draft-js-import-html": "^1.4.1",
+    "draft-js-mention-plugin": "^3.1.5",
+    "framer-motion": "^3.10.3",
+    "immutable": "^4.0.0-rc.12",
+    "moment": "^2.29.1",
+    "papaparse": "^5.3.0",
+    "react": "^17.0.1",
+    "react-avatar": "^3.9.7",
+    "react-content-loader": "^6.0.1",
+    "react-date-picker": "^8.0.5",
+    "react-dom": "^17.0.1",
+    "react-dropzone-uploader": "^2.11.0",
+    "react-hook-form": "^6.10.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "react-toastify": "^6.0.9",
+    "styled-components": "^5.2.1",
+    "styled-tools": "^1.7.2",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
